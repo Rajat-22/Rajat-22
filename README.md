@@ -54,7 +54,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajat-22&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Rajat Sharma GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajat-22&theme=algolia" alt="Rajat-22" />
+  <img
+    align="center"
+    src="https://streak-stats.demolab.com?user=Rajat-22&theme=algolia"
+    alt="Rajat-22"
+  />
 </p>
 
 ---
