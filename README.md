@@ -1,7 +1,3 @@
-Create a repo with name Rajat-22 then add README.md
-
-
-
 <h1 align="center">Hi 👋, I'm Rajat Sharma</h1>
 <h3 align="center">Fullstack Engineer</h3>
 
