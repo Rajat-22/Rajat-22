@@ -56,6 +56,24 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajat-22&theme=algolia" />
 </p>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajat-22&theme=algolia&utcOffset=5"
+    alt="Rajat Sharma productive time"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-seven.vercel.app/?user=Rajat-22&theme=algolia&hide_border=true"
+    alt="Rajat Sharma GitHub Streak"
+  />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajat-22&show_icons=true&theme=algolia&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats-seven.vercel.app/?user=Rajat-22&theme=algolia&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-22&layout=compact&theme=algolia&hide_border=true" height="160"/>
+</p>
+
 
 ---
 
