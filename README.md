@@ -58,17 +58,11 @@ I’m a passionate developer who loves building **clean, scalable, and user‑fr
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajat-22&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Rajat Sharma GitHub status" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajat-22&theme=radical&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00" />
+</div>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajat-22&theme=algolia" />
-</p>
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajat-22&theme=algolia&utcOffset=5"
-    alt="Rajat Sharma productive time"
-  />
 </p>
 
 ## 🤝 Connect With Me
